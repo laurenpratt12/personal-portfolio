@@ -14,6 +14,7 @@ The portfolio currently includes:
 * **Navigation** — Links to the different sections of the page.
 * **Hero/Introduction** — My name, major, university, and a short introduction.
 * **About Me** — Information about my background and interests in Computer Science.
+* **Education** — Grade level, school, and major.
 * **Skills** — Programming languages and technologies I have worked with.
 * **Projects** — A showcase of projects I have created, including the L'Oréal Chatbot, Water Rescue game, NASA Space Explorer, and Intel projects.
 * **Contact** — Links to my LinkedIn, GitHub, and email.
@@ -58,13 +59,6 @@ Two interactive websites created for Intel, including a sustainability timeline 
 ## Validation
 
 The HTML is tested using the **W3C Markup Validation Service** to check for HTML errors and follow web standards.
-
-## Deployment
-
-The portfolio is deployed using Netlify.
-
-* **Live Site:** Add your Netlify URL here
-* **GitHub Repository:** Add your GitHub repository URL here
 
 ## Future Improvements
 
